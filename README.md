@@ -21,3 +21,9 @@ We Used Three of the famous classification algorithms:
   Random Forest
   Naive Bayer’s
 
+Libraries Used Are:
+    Pandas
+    Numpy
+    Tkinter
+    SK Learn
+
